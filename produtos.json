@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "id": 2,
+      "nome": "iPhone 16",
+      "valor": 17000
+    },
+    {
+      "id": 3,
+      "nome": "Samsung Galaxy A54",
+      "valor": 2000
+    },
+    {
+      "id": 4,
+      "nome": "Samsung Galaxy A34",
+      "valor": 1500
+    }
+  ]
+}
